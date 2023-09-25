@@ -1,1 +1,1 @@
-web: worker: bash startbot.sh
+ worker: bash startbot.sh
